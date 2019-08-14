@@ -1,23 +1,26 @@
 import React from 'react';
-import logo from './logo.svg';
+import Countdown from 'react-count-down'
 import './App.css';
 
+
 function App() {
+  const cb = () => {
+    console.log('expired callback')
+  }
+
+  const OPTIONS = {
+    
+    endDate: '01/01/2020 12:00 AM',
+    cb
+  }
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
+        <img src={require('./dungeoneers_torch.gif')} className="App-logo" alt="logo" />
+       
+        <p className="Count-Text">
+          <Countdown options={OPTIONS} />
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
