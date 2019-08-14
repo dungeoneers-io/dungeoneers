@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dungeoneers/static/css/main.b8ebcc74.chunk.css",
+    "main.js": "/dungeoneers/static/js/main.9f51bea8.chunk.js",
+    "main.js.map": "/dungeoneers/static/js/main.9f51bea8.chunk.js.map",
+    "runtime~main.js": "/dungeoneers/static/js/runtime~main.f11a8c82.js",
+    "runtime~main.js.map": "/dungeoneers/static/js/runtime~main.f11a8c82.js.map",
+    "static/js/2.e22bb064.chunk.js": "/dungeoneers/static/js/2.e22bb064.chunk.js",
+    "static/js/2.e22bb064.chunk.js.map": "/dungeoneers/static/js/2.e22bb064.chunk.js.map",
+    "index.html": "/dungeoneers/index.html",
+    "precache-manifest.287150304de308cc485286f2d469e7c9.js": "/dungeoneers/precache-manifest.287150304de308cc485286f2d469e7c9.js",
+    "service-worker.js": "/dungeoneers/service-worker.js",
+    "static/css/main.b8ebcc74.chunk.css.map": "/dungeoneers/static/css/main.b8ebcc74.chunk.css.map",
+    "static/media/dungeoneers_torch.gif": "/dungeoneers/static/media/dungeoneers_torch.360ae478.gif"
+  }
+}
